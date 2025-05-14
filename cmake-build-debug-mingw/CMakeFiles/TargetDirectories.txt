@@ -1,0 +1,3 @@
+D:/C++ Training/2DGameEngineCmake2/cmake-build-debug-mingw/CMakeFiles/2DGameEngineCmake2.dir
+D:/C++ Training/2DGameEngineCmake2/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/C++ Training/2DGameEngineCmake2/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

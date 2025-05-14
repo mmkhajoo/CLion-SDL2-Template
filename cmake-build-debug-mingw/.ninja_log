@@ -1,0 +1,7 @@
+# ninja log v6
+16	48	7689469196738542	D:/C++ Training/2DGameEngineCmake2/cmake-build-debug-mingw/CMakeFiles/cmake.verify_globs	71d197aa2998768
+72	1301	7689012965955173	CMakeFiles/2DGameEngineCmake2.dir/main.cpp.obj	cc4a303b1325c712
+77	1689	7689012966018574	CMakeFiles/2DGameEngineCmake2.dir/GameEngine/Game.cpp.obj	eb47bbe42956130e
+1690	11016	7689012982151336	2DGameEngineCmake2.exe	1d8919c097335c9f
+33	65	7689469379998447	D:/C++ Training/2DGameEngineCmake2/cmake-build-debug-mingw/CMakeFiles/cmake.verify_globs	71d197aa2998768
+68	6770	7689469380355507	2DGameEngineCmake2.exe	1d8919c097335c9f
